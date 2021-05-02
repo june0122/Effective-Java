@@ -66,7 +66,7 @@
 
 - Item 27 : Eliminate unchecked warnings
 
-- Item 28 : Prefer lists to arrays
+- [Item 28](https://github.com/june0122/Effective-Java/blob/main/item%2028.md) : Prefer lists to arrays
 
 - Item 29 : Favor generic types
 
